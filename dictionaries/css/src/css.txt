@@ -1,3 +1,4 @@
+-moz-keyframes
 -moz-mac-unified-toolbar
 -moz-win-borderless-glass
 -moz-win-browsertabbar-toolbox
