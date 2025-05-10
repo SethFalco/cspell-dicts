@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.37](https://github.com/SethFalco/cspell-dicts/compare/@cspell/dict-en-gb-mit@2.1.36...@cspell/dict-en-gb-mit@2.1.37) (2025-04-12)
+
+
+### Updates and Bug Fixes
+
+* Add back missing English words ([#4119](https://github.com/SethFalco/cspell-dicts/issues/4119)) ([22126fb](https://github.com/SethFalco/cspell-dicts/commit/22126fb65d0d2edbb0a627a3a013a988de41bc49))
+* Workflow Bot -- Build Dictionaries ([#3788](https://github.com/SethFalco/cspell-dicts/issues/3788)) ([17390bc](https://github.com/SethFalco/cspell-dicts/commit/17390bcd6d457603eddaf62d506a4a2f0f8ae482))
+* Workflow Bot -- Build Dictionaries ([#3843](https://github.com/SethFalco/cspell-dicts/issues/3843)) ([bfa0e37](https://github.com/SethFalco/cspell-dicts/commit/bfa0e3768426e06971b517eb4dd26148aece100e))
+* Workflow Bot -- Build Dictionaries ([#4019](https://github.com/SethFalco/cspell-dicts/issues/4019)) ([b116fdc](https://github.com/SethFalco/cspell-dicts/commit/b116fdcfa5f4e31f652891fd240058d5755e1950))
+* Workflow Bot -- Build Dictionaries ([#4106](https://github.com/SethFalco/cspell-dicts/issues/4106)) ([a6ce4a2](https://github.com/SethFalco/cspell-dicts/commit/a6ce4a2891ecc574423a657f69814a809348f532))
+* Workflow Bot -- Build Dictionaries ([#4147](https://github.com/SethFalco/cspell-dicts/issues/4147)) ([c28c288](https://github.com/SethFalco/cspell-dicts/commit/c28c288859fd2c5fe17a10dbc0eb264ec6d14f46))
+* Workflow Bot -- Build Dictionaries ([#4182](https://github.com/SethFalco/cspell-dicts/issues/4182)) ([2eec6cd](https://github.com/SethFalco/cspell-dicts/commit/2eec6cda280ea293905f32830dcd19014aaa1293))
+* Workflow Bot -- Build Dictionaries ([#4235](https://github.com/SethFalco/cspell-dicts/issues/4235)) ([cb96bfd](https://github.com/SethFalco/cspell-dicts/commit/cb96bfd8b81f38b62af1b87704dfb2de8f651cc9))
+* Workflow Bot -- Build Dictionaries ([#4246](https://github.com/SethFalco/cspell-dicts/issues/4246)) ([80d32f5](https://github.com/SethFalco/cspell-dicts/commit/80d32f5f2cfef5bb8eac8af7c3f218861109a1ef))
+* Workflow Bot -- Build Dictionaries ([#4257](https://github.com/SethFalco/cspell-dicts/issues/4257)) ([ccd5d14](https://github.com/SethFalco/cspell-dicts/commit/ccd5d149f3c705da32692e4298ab6ea7bae31cea))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @cspell/dict-en-shared bumped to 1.0.28
+
 ## [2.1.36](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb-mit@2.1.35...@cspell/dict-en-gb-mit@2.1.36) (2025-04-07)
 
 
